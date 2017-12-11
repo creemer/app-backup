@@ -1,0 +1,27 @@
+[app/ui]
+version = 6.6.0
+modtime = 1494948265.309393000
+
+[app/launcher]
+version = 6.6.0
+modtime = 1494948265.311864000
+
+[views/api_dashboard]
+owner = admin
+version = 6.6.0
+modtime = 1496224377.284910000
+
+[db_connections/mysql]
+access = read : [ admin, db_connect_admin, db_connect_user ], write : [ admin, db_connect_admin ]
+export = system
+owner = admin
+version = 6.6.0
+modtime = 1495103317.549253000
+
+[nav/default]
+version = 6.6.0
+modtime = 1496320652.641330000
+
+[app/install/install_source_checksum]
+version = 7.0.0
+modtime = 1512979836.693942000

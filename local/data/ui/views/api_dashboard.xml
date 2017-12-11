@@ -1,0 +1,21 @@
+<dashboard script="customview.js">
+
+  <label>API app dashboard</label>
+
+  <row>
+    <html>
+      <style>
+        #add-new-app {
+          display: none;
+        }
+      </style>
+      <div id="menu-wrapper">
+      </div>
+      <div class="main-wrapper">
+        <div id="choose-form-place"></div>
+        <div id="add-new-app"></div>
+      </div>
+    </html>
+  </row>
+
+</dashboard>
